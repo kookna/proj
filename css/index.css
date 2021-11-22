@@ -373,16 +373,23 @@ h1 {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #000;
+    background: #363a8f;
     margin-right: 20px;
 }
-/* .part3 .color .s{
+.part3 .color .g{
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #f4f4f4;
+    background: #0e9e49;
     margin-right: 20px;
-} */
+}
+.part3 .color .s{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #fff;
+    margin-right: 20px;
+}
 .part3 .title{
     font-size: 4.0rem;
     color: #d280f7;
