@@ -48,11 +48,11 @@ h3{
 }
 h4{
     font-size: 18px;
-    margin: 10px 0;
+    margin: 50px 0;
     color: #fff;
 }
 p{
-    padding: 5px 0;
+    padding: 15px 0;
     color: #fff;
     
 }
@@ -304,6 +304,7 @@ h1 {
 }
 .part2 .textbox{
     width: 550px;
+    height: 50%;
 }
 .part2 .color .f{
     width: 25px;
